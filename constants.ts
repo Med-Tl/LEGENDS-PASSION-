@@ -224,6 +224,6 @@ export const FAN_CULTURE: FanCulture[] = [
     groupName: 'Ultras L\'Emkachkhines',
     description: 'The Virage Sud is legendary. Known for massive tifos, pyro shows, and 90 minutes of non-stop chanting.',
     image: '/images/legends/taraji-champ3.jpg',
-    chants: ['Taraji Ya Dawla', 'Mia Mia', 'Bella Ciao (EST version)']
+    chants: ['Taraji La Prima', 'Unico Amore', 'Allez Les Jeunes']
   }
 ];
